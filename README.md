@@ -1,5 +1,5 @@
 # Ex-01-Linux-Commands
-# NAME : ADITHYA
+# NAME : ADITHYA M
 # REG. NO. : 212224230008
 ## Aim:
 
